@@ -103,7 +103,6 @@ void vector ::anglebetween(vector v1, vector v2)
 {
     cout << v1.mod;
     cout << v2.mod;
-    cout << (dot / (v1.mod * v2.mod));
     cout << "The angle between the vectors: " << endl;
     vectordef(v1.x, v1.y, v1.z);
     cout << endl;
